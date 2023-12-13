@@ -1,4 +1,4 @@
 とっても直感的なプログラミング言語です。
 イワシはこの言語のために作られました。
 
-[開発] >_<, ski.com
+[website] https://ubazame.duckdns.org/Umihebi 
